@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/pepperumo/install/ros_gz_interfaces/include/**",
+        "/home/pepperumo/ros2_ws/install/ros_gz_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/pepperumo/bumperbot_ws/src/bumperbot_controller/include/**",
+        "/home/pepperumo/bumperbot_ws/src/bumperbot_cpp_examples/include/**",
+        "/home/pepperumo/bumperbot_ws/src/bumperbot_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

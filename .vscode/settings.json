@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/pepperumo/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pepperumo/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pepperumo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/pepperumo/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/pepperumo/install/my-test-package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/pepperumo/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pepperumo/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pepperumo/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/pepperumo/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/pepperumo/install/my-test-package/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/pepperumo/bumperbot_ws/src/bumperbot_controller",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}

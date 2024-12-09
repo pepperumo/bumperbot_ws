@@ -1,0 +1,3 @@
+[console_scripts]
+trajectory_drawer = bumperbot_utils.trajectory_drawer:main
+

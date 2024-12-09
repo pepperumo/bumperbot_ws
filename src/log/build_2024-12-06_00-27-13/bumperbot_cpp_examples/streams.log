@@ -1,0 +1,42 @@
+[0.018s] Invoking command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/pepperumo/bumperbot_ws/src/bumperbot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples
+[0.208s] -- The C compiler identification is GNU 11.4.0
+[1.161s] -- The CXX compiler identification is GNU 11.4.0
+[1.837s] -- Detecting C compiler ABI info
+[2.054s] -- Detecting C compiler ABI info - done
+[2.058s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.058s] -- Detecting C compile features
+[2.058s] -- Detecting C compile features - done
+[2.060s] -- Detecting CXX compiler ABI info
+[2.258s] -- Detecting CXX compiler ABI info - done
+[2.262s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.262s] -- Detecting CXX compile features
+[2.262s] -- Detecting CXX compile features - done
+[2.263s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.348s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.405s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.449s] -- Added test 'lint_cmake' to check CMake code style
+[2.450s] -- Added test 'xmllint' to check XML markup files
+[2.451s] -- Configuring done
+[2.453s] -- Generating done
+[2.454s] -- Build files have been written to: /home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples
+[2.457s] Invoked command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/pepperumo/bumperbot_ws/src/bumperbot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples
+[2.458s] Invoking command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples -- -j32 -l32
+[2.474s] Invoked command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples -- -j32 -l32
+[2.485s] Invoking command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples
+[2.488s] -- Install configuration: ""
+[2.488s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_examples
+[2.488s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_examples
+[2.488s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.sh
+[2.488s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.dsv
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.sh
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.dsv
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.bash
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.sh
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.zsh
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.dsv
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.dsv
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/ament_index/resource_index/packages/bumperbot_cpp_examples
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig.cmake
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig-version.cmake
+[2.489s] -- Installing: /home/pepperumo/bumperbot_ws/src/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.xml
+[2.490s] Invoked command in '/home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/home/pepperumo/ros2_ws/install/my_py_pkg:/home/pepperumo/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/src/build/bumperbot_cpp_examples
