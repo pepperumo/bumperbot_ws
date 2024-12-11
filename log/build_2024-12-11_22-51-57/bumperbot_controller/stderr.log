@@ -1,0 +1,8 @@
+[01m[K/home/pepperumo/bumperbot_ws/src/bumperbot_controller/src/teclado.cpp:1:9:[m[K [01;31m[Kfatal error: [m[Kbumperbot_controller/teclado.hpp: No such file or directory
+    1 | #include[01;31m[K"bumperbot_controller/teclado.hpp"[m[K
+      |         [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/teclado.dir/build.make:76: CMakeFiles/teclado.dir/src/teclado.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:196: CMakeFiles/teclado.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

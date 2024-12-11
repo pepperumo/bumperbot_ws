@@ -1,0 +1,2 @@
+Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '2': /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32

@@ -1,0 +1,4 @@
+Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/build/bumperbot_controller
+Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/build/bumperbot_controller

@@ -1,0 +1,28 @@
+[0.017s] Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+[0.152s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.152s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.251s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.252s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.254s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.259s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.265s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.282s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.283s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.636s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.660s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[6.660s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[6.665s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[6.673s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[6.681s] -- Found tf2_ros: 0.25.9 (/opt/ros/humble/share/tf2_ros/cmake)
+[6.720s] [31mCMake Error at CMakeLists.txt:28 (add_executable):
+[6.720s]   add_executable cannot create target "teclado" because another target with
+[6.720s]   the same name already exists.  The existing target is an executable created
+[6.720s]   in source directory
+[6.720s]   "/home/pepperumo/bumperbot_ws/src/bumperbot_controller".  See documentation
+[6.720s]   for policy CMP0002 for more details.
+[6.720s] 
+[6.720s] [0m
+[6.780s] -- Configuring incomplete, errors occurred!
+[6.780s] See also "/home/pepperumo/bumperbot_ws/build/bumperbot_controller/CMakeFiles/CMakeOutput.log".
+[6.784s] gmake: *** [Makefile:295: cmake_check_build_system] Error 1
+[6.785s] Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32

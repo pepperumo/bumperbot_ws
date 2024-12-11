@@ -1,0 +1,33 @@
+[0.018s] Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+[0.029s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.092s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.325s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.326s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.329s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.333s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.339s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.355s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.355s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.696s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.718s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[6.718s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[6.724s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[6.731s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[6.739s] -- Found tf2_ros: 0.25.9 (/opt/ros/humble/share/tf2_ros/cmake)
+[6.842s] -- Configuring done
+[6.844s] [31mCMake Error at CMakeLists.txt:28 (add_executable):
+[6.844s]   Cannot find source file:
+[6.844s] 
+[6.844s]     src/keyboard.cpp
+[6.844s] 
+[6.844s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[6.844s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[6.845s] 
+[6.845s] [0m
+[6.845s] [31mCMake Error at CMakeLists.txt:28 (add_executable):
+[6.845s]   No SOURCES given to target: keyboard
+[6.845s] 
+[6.845s] [0m
+[6.845s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[6.848s] gmake: *** [Makefile:295: cmake_check_build_system] Error 1
+[6.849s] Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32

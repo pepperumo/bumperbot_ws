@@ -1,0 +1,78 @@
+[0.014s] Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+[0.024s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.090s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.307s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.309s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.311s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.316s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.322s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.337s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.338s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[7.899s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.922s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[7.922s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[7.928s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[7.935s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[7.944s] -- Found tf2_ros: 0.25.9 (/opt/ros/humble/share/tf2_ros/cmake)
+[8.043s] -- Configuring done
+[8.050s] -- Generating done
+[8.053s] -- Build files have been written to: /home/pepperumo/bumperbot_ws/build/bumperbot_controller
+[8.066s] [35m[1mConsolidate compiler generated dependencies of target simple_controller[0m
+[8.072s] [  0%] Built target ament_cmake_python_copy_bumperbot_controller
+[8.074s] [100%] Built target simple_controller
+[8.185s] running egg_info
+[8.185s] writing bumperbot_controller.egg-info/PKG-INFO
+[8.185s] writing dependency_links to bumperbot_controller.egg-info/dependency_links.txt
+[8.185s] writing top-level names to bumperbot_controller.egg-info/top_level.txt
+[8.187s] reading manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[8.187s] writing manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[8.202s] [100%] Built target ament_cmake_python_build_bumperbot_controller_egg
+[8.207s] Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/pepperumo/bumperbot_ws/build/bumperbot_controller -- -j32 -l32
+[8.208s] Invoking command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/build/bumperbot_controller
+[8.210s] -- Install configuration: ""
+[8.210s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.sh
+[8.210s] -- Installing: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.dsv
+[8.210s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info
+[8.210s] -- Installing: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[8.210s] -- Installing: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[8.210s] -- Installing: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/top_level.txt
+[8.211s] -- Installing: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[8.211s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller
+[8.211s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/simple_controller.py:Zone.Identifier
+[8.211s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/__init__.py
+[8.211s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/__init__.py:Zone.Identifier
+[8.211s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/simple_controller.py
+[8.226s] Listing '/home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller'...
+[8.226s] Listing '/home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/build'...
+[8.226s] Listing '/home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/install'...
+[8.227s] Listing '/home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/log'...
+[8.227s] Listing '/home/pepperumo/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/log/build_2024-12-09_05-12-43'...
+[8.228s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/include/include
+[8.228s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller/teclado.hpp
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller/simple_controller.hpp
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/include/include/bumperbot_controller/simple_controller.hpp:Zone.Identifier
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch
+[8.229s] [31mCMake Error at cmake_install.cmake:101 (file):
+[8.229s]   file INSTALL cannot find
+[8.229s]   "/home/pepperumo/bumperbot_ws/src/bumperbot_controller/bumperbot_controller/twist_relay.py":
+[8.229s]   No such file or directory.
+[8.229s] 
+[8.229s] [0m
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/joystick_teleop.launch.py
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/joystick_teleop.launch.py:Zone.Identifier
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/controller.launch.py
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/controller.launch.py:Zone.Identifier
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_config.yaml
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_teleop.yaml
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/twist_mux_joy.yaml
+[8.229s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/bumperbot_controllers.yaml
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_teleop.yaml:Zone.Identifier
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/twist_mux_locks.yaml
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/twist_mux_topics.yaml
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/bumperbot_controllers.yaml:Zone.Identifier
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_config.yaml:Zone.Identifier
+[8.230s] -- Up-to-date: /home/pepperumo/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller.py
+[8.231s] Invoked command in '/home/pepperumo/bumperbot_ws/build/bumperbot_controller' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pepperumo/bumperbot_ws/install/bumperbot_utils:/home/pepperumo/bumperbot_ws/install/bumperbot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/pepperumo/bumperbot_ws/build/bumperbot_controller
